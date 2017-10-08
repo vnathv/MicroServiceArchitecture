@@ -1,4 +1,4 @@
-# MicroServiceArchitecture
+# MicroService Architecture
 
 
 By this time you might definitely have heard about the term "Microservice". Here I will give a quick introduction of microservice and design principles to develop highly effective microservice.
