@@ -13,7 +13,7 @@ In microservice architecture communication mechanism should be lightweight and q
 
 
             
-    ![solarized palette](https://github.com/vnathv/MicroServiceArchitecture/blob/master/Architecture.jpg)   
+   ![Micro-Service Architecture](../Architecture.jpg?raw=true "Micro-Service Architecture")  
   
 
             
