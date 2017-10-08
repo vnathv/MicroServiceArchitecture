@@ -11,6 +11,7 @@ Let's jump into microservice architecture. Microservice is an improved version o
 
 In microservice architecture communication mechanism should be lightweight and quick as when we carry out a transaction within a microservice architecture system, the transaction will be a distributed transaction which is completed by multiple services, therefore the services should communicate in a quick and efficient way over the network. Microservice should be technology agnostic. It means to say if you have 10 microservices for you distributed transactions and you microservices should be technology agnostic in such a way that you can use any technology to create each one of these services. In the monolithic application, we usually will have a centralized database to share data between services and applications but in microservice architecture, each service has its own database. Microservice should be independently changeable, means I can upgrade, enhance or fix a specific microservice without changing any of the clients or any of the other services in the system. As microservices are independently changeable they should also be independently deployable. Let's take an example of a typical e-commerce system designed in microservice architecture.
 
+
 ![Micro-Service Architecture](https://github.com/vnathv/MicroServiceArchitecture/blob/master/Architecture.jpg?raw=true)
 
 
